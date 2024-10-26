@@ -1,6 +1,6 @@
 {
     "name": "@onivoro/server-aws-dynamo",
-    "version": "0.0.3",
+    "version": "22.0.0",
     "repository": {
         "url": "git+https://github.com/onivoro/server-aws-dynamo.git"
     },
