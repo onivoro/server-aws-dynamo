@@ -1,6 +1,6 @@
 {
         "$schema": "https://json.schemastore.org/tsconfig",
-        "extends": "./node_modules/@onivoro/cli/src/assets/tsconfig.18.json",
+        "extends": "./node_modules/@onivoro/cli/src/assets/tsconfig.22.json",
         "include": ["src/**/*.ts"],
           "exclude": [
             "node_modules",
@@ -9,10 +9,5 @@
             "**/*spec.ts",
             "**/*.snap"
           ],
-        "compilerOptions": {
-          "declaration": true,
-          "strict": false,
-          "emitDecoratorMetadata": true,
-          "experimentalDecorators": true
-        }
+        "compilerOptions": {}
       }
